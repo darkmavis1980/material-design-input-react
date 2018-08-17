@@ -34,4 +34,9 @@ $input-line-height: 16px;
     opacity: 1;
     font-size: 11px;
   }
+
+  select{
+    padding: $padding;
+    line-height: $input-line-height;
+  }
 }

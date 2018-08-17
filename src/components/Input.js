@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types'; 
 
-import './Input.css';
+import './Form.css';
 
 const Input = (props) => {
   return (
